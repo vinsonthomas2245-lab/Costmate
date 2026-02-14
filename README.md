@@ -17,8 +17,8 @@ Eugene is a simple breakeven calculation app designed for seamless interaction.
 ## 🛠️ App Store Compliance
 This repository provides the live landing pages for App Store Connect:
 
-* **Privacy Policy:** [https://YOUR-USERNAME.github.io/eugene-app/](https://YOUR-USERNAME.github.io/eugene-app/)
-* **Support Page:** [https://YOUR-USERNAME.github.io/eugene-app/](https://YOUR-USERNAME.github.io/eugene-app/)
+* **Privacy Policy:** [https://vinsonthomas2245-lab.github.io/costmate] 
+* **Support Page:** [https://vinsonthomas2245-lab.github.io/costmate]
 
 ## ⚖️ License
 Internal project of Vinson Thomas. All rights reserved. 2026.
