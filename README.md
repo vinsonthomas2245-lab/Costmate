@@ -6,9 +6,9 @@ Welcome to the official repository for **Eugene v1.3**, featuring the all-new **
 Eugene is a simple breakeven calculation app designed for seamless interaction. 
 
 ### Key Features
-* Strategic Break-even : Don't just aim for zero. Set a 20%, 30%, or 50% profit margin goal and let Costmate calculate the desired price point
+* Strategic Break-even : Don't just aim for zero. Set your desired profit margin goal and let Costmate do the rest
 * Interactive Simulations: Use the What-If Curve to visualize how a 5% increase in material costs or a 10% drop in sales volume could impact your bottom line
-* Executive Summary: A high-level dashboard showing Total Revenue, Combined Costs, and your Contribution Margin at a glance
+* Executive Summary: A high-level dashboard showing Total Revenue, Combined Costs, Profit Margin and Unit Cost split across variable cost and fixed cost at a glance.
 * Privacy-First: Your data is yours. Costmate performs all calculations on-device. No cloud, no tracking, no account required
 
 
